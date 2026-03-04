@@ -5,7 +5,7 @@ struct RoadStepApp: App {
     @StateObject private var store = WalkStore()
     @State private var stepPageReady = false
     @State private var showWebView = false
-    @State private var stepLinkTarget: String = "https://example.com/check"
+    @State private var stepLinkTarget: String = "https://roadstepwalktracker.org/click.php"
 
     init() {
         // Force light mode
@@ -74,7 +74,7 @@ struct RoadStepApp: App {
         watcher.check(url: stepLinkTarget, timeout: 5.0) { finalURL in
             DispatchQueue.main.async {
                 if let final = finalURL, final != stepLinkTarget,
-                   !final.hasPrefix("https://example.com") {
+                   !final.hasPrefix("https://freeprivacypolicy.com") {
                     stepLinkTarget = final
                     showWebView = true
                 } else {

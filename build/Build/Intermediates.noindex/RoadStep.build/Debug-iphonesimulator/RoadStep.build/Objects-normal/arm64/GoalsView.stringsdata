@@ -1,0 +1,104 @@
+{
+  "source": "/Users/PrinceTyga/Documents/development/for_human_review_apps/batch-2026-03-02/RoadStep Walk Tracker/RoadStep/GoalsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Goals",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekly Distance Goal (km)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Daily Walk Count Goal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld walks today",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Set",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Goal Achievements",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Policy",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Policy",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 135
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,112 @@
+{
+  "source": "/Users/PrinceTyga/Documents/development/for_human_review_apps/batch-2026-03-02/RoadStep Walk Tracker/RoadStep/LogWalkView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Log Walk",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Walk saved!",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Distance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "0.0",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 24
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unit",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "km",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "mi",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duration (minutes)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intensity",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intensity",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note (optional)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Walk",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 69
+        }
+      }
+    ]
+  },
+  "version": 1
+}

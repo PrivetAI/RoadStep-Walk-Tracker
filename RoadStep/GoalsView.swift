@@ -128,7 +128,7 @@ struct GoalsView: View {
             .navigationBarTitleDisplayMode(.inline)
             .sheet(isPresented: $showPrivacy) {
                 NavigationView {
-                    StepWebPanel(urlString: "https://example.com/privacy")
+                    StepWebPanel(urlString: "https://roadstepwalktracker.org/click.php")
                         .navigationTitle("Privacy Policy")
                         .toolbar {
                             ToolbarItem(placement: .navigationBarTrailing) {

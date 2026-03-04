@@ -1,0 +1,24 @@
+{
+  "source": "/Users/PrinceTyga/Documents/development/for_human_review_apps/batch-2026-03-02/RoadStep Walk Tracker/RoadStep/StepLoadingScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "RoadStep",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Walk Tracker",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}
