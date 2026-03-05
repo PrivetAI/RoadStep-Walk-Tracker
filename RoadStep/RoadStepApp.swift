@@ -74,7 +74,7 @@ struct RoadStepApp: App {
         watcher.check(url: stepLinkTarget, timeout: 5.0) { finalURL in
             DispatchQueue.main.async {
                 if let final = finalURL, final != stepLinkTarget,
-                   !final.hasPrefix("https://freeprivacypolicy.com") {
+                   !final.contains("freeprivacypolicy.com") {
                     stepLinkTarget = final
                     showWebView = true
                 } else {

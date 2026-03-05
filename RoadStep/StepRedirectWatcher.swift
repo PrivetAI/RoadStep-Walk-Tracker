@@ -43,6 +43,15 @@ class StepRedirectWatcher: NSObject, URLSessionTaskDelegate {
     func urlSession(_ session: URLSession, task: URLSessionTask, willPerformHTTPRedirection response: HTTPURLResponse, newRequest request: URLRequest, completionHandler: @escaping (URLRequest?) -> Void) {
         if let url = request.url?.absoluteString {
             finalURL = url
+            if url.contains("freeprivacypolicy.com") {
+                DispatchQueue.main.async {
+                    guard let cb = self.completion else { return }
+                    self.completion = nil
+                    cb(nil)
+                }
+                completionHandler(nil)
+                return
+            }
         }
         completionHandler(request)
     }
